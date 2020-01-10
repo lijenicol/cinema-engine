@@ -1,0 +1,48 @@
+﻿  BezierLoop.cpp
+C:\Users\elija\Documents\cse 167\final project\source\BezierLoop.cpp(15,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\elija\Documents\cse 167\final project\source\BezierLoop.cpp(189,23): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Camera.cpp
+C:\Users\elija\Documents\cse 167\final project\source\BezierLoop.cpp(195,20): warning C4018: '<': signed/unsigned mismatch
+  CubeMap.cpp
+  CubicBezier.cpp
+  Geometry.cpp
+C:\Users\elija\Documents\cse 167\final project\source\Camera.cpp(11,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\elija\Documents\cse 167\final project\source\Geometry.cpp(149,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\elija\Documents\cse 167\final project\source\Geometry.cpp(182,20): warning C4018: '<': signed/unsigned mismatch
+  PointCloud.cpp
+C:\Users\elija\Documents\cse 167\final project\source\Geometry.cpp(195,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\elija\Documents\cse 167\final project\source\PointCloud.cpp(108,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\elija\Documents\cse 167\final project\source\PointCloud.cpp(143,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\elija\Documents\cse 167\final project\source\PointCloud.cpp(156,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\elija\Documents\cse 167\final project\source\PointCloud.cpp(262,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\elija\Documents\cse 167\final project\source\PointCloud.cpp(264,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\elija\Documents\cse 167\final project\source\PointCloud.cpp(276,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\elija\Documents\cse 167\final project\source\PointCloud.cpp(277,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\elija\Documents\cse 167\final project\source\PointCloud.cpp(283,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\elija\Documents\cse 167\final project\source\PointCloud.cpp(290,20): warning C4018: '<': signed/unsigned mismatch
+  PointSphere.cpp
+  Scene.cpp
+C:\Users\elija\Documents\cse 167\final project\source\PointCloud.cpp(315,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\elija\Documents\cse 167\final project\source\Scene.cpp(9,111): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\elija\Documents\cse 167\final project\source\Scene.cpp(107,20): warning C4018: '<': signed/unsigned mismatch
+  Terrain.cpp
+C:\Users\elija\Documents\cse 167\final project\source\Scene.cpp(131,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\elija\Documents\cse 167\final project\source\Terrain.cpp(83,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\elija\Documents\cse 167\final project\source\Terrain.cpp(84,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\elija\Documents\cse 167\final project\source\Terrain.cpp(89,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Transform.cpp
+  Window.cpp
+C:\Users\elija\Documents\cse 167\final project\source\Terrain.cpp(90,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\elija\Documents\cse 167\final project\source\FrameBuffer.h(15,19): warning C4200: nonstandard extension used: zero-sized array in struct/union
+C:\Users\elija\Documents\cse 167\final project\source\FrameBuffer.h(15,19): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+C:\Users\elija\Documents\cse 167\final project\source\Window.cpp(176,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\elija\Documents\cse 167\final project\source\Window.cpp(323,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\elija\Documents\cse 167\final project\source\Window.cpp(334,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\elija\Documents\cse 167\final project\source\Window.cpp(336,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\elija\Documents\cse 167\final project\source\Window.cpp(389,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\elija\Documents\cse 167\final project\source\Window.cpp(441,52): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\elija\Documents\cse 167\final project\source\Window.cpp(456,67): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  main.cpp
+  Generating Code...
+C:\Users\elija\Documents\cse 167\final project\source\Window.cpp(456,47): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  final project.vcxproj -> C:\Users\elija\Documents\cse 167\final project\source\Debug\final project.exe
